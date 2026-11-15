@@ -7,11 +7,11 @@
     "notes": "Бета VARMATCH TV доступна из меню «Обновления»."
   },
   "com.example.twosubtv": {
-    "versionCode": 45,
-    "versionName": "2.37-beta7",
-    "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/v2026.11.15/2SUB-TV-v2.37-beta7.apk",
-    "sha256": "51b1d4d27f89c59a57e2d43dbc4897bf78c1b6a0355c3802dc961c9e658a586b",
-    "notes": ""
+    "versionCode": 48,
+    "versionName": "2.37",
+    "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/2sub-tv-v2.37/2SUB-TV-v2.37.apk",
+    "sha256": "83682fce18580341f81563387b72241f4ef750d0269acbf7a5b70c207b684dfc",
+    "notes": "Netflix включает плавный курсор с прокруткой у краёв. Prime Video включает и выключает русские субтитры. Удержание стрелки ускоряет перемотку на основном таймлайне. OK открывает выбранную кнопку «Смотреть» следующей серии."
   },
   "org.smarttube.stable": {
     "versionCode": 2458,
