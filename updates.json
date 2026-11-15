@@ -1,0 +1,23 @@
+{
+  "local.sedoy.glasstv": {
+    "versionCode": 59,
+    "versionName": "1.58",
+    "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/v2026.11.15/LUH-TV-v1.58.apk",
+    "sha256": "3e3ff67fb9c583d0482a5149c837de2d7451627f9ce66b355d128e057960c777",
+    "notes": "Кнопка VPN управляет профилем AmneziaWG.\nОбновления загружаются с GitHub вместо сервера."
+  },
+  "com.example.twosubtv": {
+    "versionCode": 45,
+    "versionName": "2.37-beta7",
+    "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/v2026.11.15/2SUB-TV-v2.37-beta7.apk",
+    "sha256": "51b1d4d27f89c59a57e2d43dbc4897bf78c1b6a0355c3802dc961c9e658a586b",
+    "notes": ""
+  },
+  "org.smarttube.stable": {
+    "versionCode": 2458,
+    "versionName": "32.68",
+    "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/v2026.11.15/SmartTube-stable-32.68-universal.apk",
+    "sha256": "45a36e62110bcb866527ba8e9ab876f4122e1143647bbd0a97362d13803f6b94",
+    "notes": "Официальный SmartTube Stable, универсальный APK"
+  }
+}
