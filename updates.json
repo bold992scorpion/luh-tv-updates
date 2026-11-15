@@ -1,10 +1,10 @@
 {
   "local.sedoy.glasstv": {
-    "versionCode": 59,
-    "versionName": "1.58",
-    "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/v2026.11.15/LUH-TV-v1.58.apk",
-    "sha256": "3e3ff67fb9c583d0482a5149c837de2d7451627f9ce66b355d128e057960c777",
-    "notes": "Кнопка VPN управляет профилем AmneziaWG.\nОбновления загружаются с GitHub вместо сервера."
+    "versionCode": 60,
+    "versionName": "1.59",
+    "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/luh-tv-v1.59/LUH-TV-v1.59.apk",
+    "sha256": "a004db01bb35d14082b9b3c678c2deea46872ad35e9ed068b7d7f4e9528cec78",
+    "notes": "Бета VARMATCH TV доступна из меню «Обновления»."
   },
   "com.example.twosubtv": {
     "versionCode": 45,
@@ -19,5 +19,12 @@
     "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/v2026.11.15/SmartTube-stable-32.68-universal.apk",
     "sha256": "45a36e62110bcb866527ba8e9ab876f4122e1143647bbd0a97362d13803f6b94",
     "notes": "Официальный SmartTube Stable, универсальный APK"
+  },
+  "local.sedoy.varmatchtv": {
+    "versionCode": 25,
+    "versionName": "1.3.2 · бета с курсором",
+    "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/varmatch-mouse-beta-2026.11.15/VARMATCH-TV-mouse-beta.apk",
+    "sha256": "9af976873da39f53dfc24e4ce7d3647f83efb959cf591351aa2c24c018f4fc1a",
+    "notes": "Стрелки двигают курсор, OK нажимает под ним. У края списка матчей удержание стрелки имитирует свайп."
   }
 }
