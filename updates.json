@@ -1,10 +1,10 @@
 {
   "local.sedoy.glasstv": {
-    "versionCode": 60,
-    "versionName": "1.59",
-    "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/luh-tv-v1.59/LUH-TV-v1.59.apk",
-    "sha256": "a004db01bb35d14082b9b3c678c2deea46872ad35e9ed068b7d7f4e9528cec78",
-    "notes": "Бета VARMATCH TV доступна из меню «Обновления»."
+    "versionCode": 61,
+    "versionName": "1.60",
+    "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/luh-tv-v1.60/LUH-TV-v1.60.apk",
+    "sha256": "5caabba96ee86af54b5b16c4c9fcb33ed228711fcdb6e00973e9a22904b47de6",
+    "notes": "Кнопка сохранения локального конфига AmneziaWG в «Загрузки»."
   },
   "com.example.twosubtv": {
     "versionCode": 48,
