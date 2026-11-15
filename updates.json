@@ -22,7 +22,7 @@
   },
   "local.sedoy.varmatchtv": {
     "versionCode": 25,
-    "versionName": "1.3.2 · бета с курсором",
+    "versionName": "1.3.2",
     "apk": "https://github.com/bold992scorpion/luh-tv-updates/releases/download/varmatch-mouse-beta-2026.11.15/VARMATCH-TV-mouse-beta.apk",
     "sha256": "9af976873da39f53dfc24e4ce7d3647f83efb959cf591351aa2c24c018f4fc1a",
     "notes": "Стрелки двигают курсор, OK нажимает под ним. У края списка матчей удержание стрелки имитирует свайп."
